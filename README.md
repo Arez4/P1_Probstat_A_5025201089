@@ -109,6 +109,7 @@ Output :
 ### Soal 3
 >Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis
 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
+
 a. Peluang bahwa 6 bayi akan lahir di rumah sakit besok
 ```
 lambda = 4.5
@@ -148,6 +149,7 @@ Output :
 
 ### Soal 4
 > Diketahui nilai x = 2 dan v = 10. Tentukan:
+
 a. Fungsi Probabilitas dari Distribusi Chi-Square.
 > Mencari peluang distribusi chi-square dengan x = 2, df = 10 dengan menggunakan `dchisq`
 Source code dan output :
@@ -180,6 +182,7 @@ Output :
 
 ### Soal 5
 > Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
+
 a. Fungsi Probabilitas dari Distribusi Exponensial
 >  Mencari peluang distribusi eksponensial dengan n = 10, rate = 3 dengan menggunakan `rexp`
 Source code dan output :
