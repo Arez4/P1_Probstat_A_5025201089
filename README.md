@@ -166,7 +166,7 @@ b. Histogram dari Distribusi Chi-Square dengan 100 data random.
 
 
 C. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Chi-Square.
-> Nilai rataan dapat dicari dengan `μ = df` sedangkan varian `σ² = 2*df`
+> Nilai rataan dapat dicari dengan `μ = v` sedangkan varian `σ² = 2*v`
 Source code dan output :
 ```
 v = 10
