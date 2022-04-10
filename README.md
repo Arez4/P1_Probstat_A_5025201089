@@ -62,6 +62,7 @@ varian
 ```
 ### Soal 2
 > Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
+
 a. Peluang terdapat 4 pasien yang sembuh.
 ```
 dbinom(4, 20, 0.2)
