@@ -4,6 +4,7 @@ Andi Muhammad Rafli - 5025201089
 
 ### Soal 1
 > Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia bertemu dengan seseorang yang menghadiri acara vaksinasi sebelumnya.
+
 a. Distribusi Geometrik
 > Menggunakan fungsi `dgeom` untuk mendapatkan nilai peluang soal. Setelah dijalankan, akan didapatkan nilai peluang yaitu sebagai berikut 
 ```
