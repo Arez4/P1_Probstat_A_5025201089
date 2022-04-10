@@ -1,14 +1,13 @@
-#1a
+#1A
 dgeom(x=3, prob=0.20)
 
-#1b
+#1B
 mean(rgeom(n=10000, prob=0.20) == 3)
 
-#1c
-#Hasil 1a akan sama tetapi untuk 1b nilainya akan berbeda karena nilai random.
-#Namun hasil perhitungan kedua poin tersebut nilainya tidak akan berbeda jauh.
+#1C
+#Pada soal ini didapatkan bahwa hasil dari soal 1A dan 1B akan sama nilainya karena bersifat random. Namun hasil dari perhitungan kedua soal tidak akan jauh berbeda
 
-#1d
+#1D
 library(dplyr)
 library(ggplot2)
 
@@ -29,8 +28,6 @@ data.frame(x = 0:10, prob = dgeom(x = 0:10, prob = 0.20)) %>%
 
 #1e
 rataan<-1/prob
-rataan
-
-#varian
 varian<-(1-prob)/prob^2
+rataan
 varian

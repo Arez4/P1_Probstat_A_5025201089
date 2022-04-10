@@ -15,7 +15,9 @@ data.frame(x = 0:10, prob = dbinom(x = 0:10,20,0.2)) %>%
   labs(title = "Peluang jika X = 4 pasien sembuh.", x = "Sembuh (x)", y = "Peluang")
 
 #2c
-n = 20
 p = 0.2
-n*p 
-n*p*(1-p)
+n = 4
+rataan = n*p
+rataan
+varian = n*p*(1-p)
+varian

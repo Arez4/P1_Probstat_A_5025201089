@@ -1,7 +1,6 @@
-lambda = 3
-
 #5a
-dexp(lambda)
+lambda = 3
+rexp(lambda)
 
 #5b
 par(mfrow = c(2, 2))
